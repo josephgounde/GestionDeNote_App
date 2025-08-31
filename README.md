@@ -1,2 +1,2 @@
 # GestionDeNote_App
- a full java app for grades management
+ a full java + angular app for grades management
